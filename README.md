@@ -88,6 +88,20 @@ I enjoy bridging the gap between theoretical algorithms and physical silicon, op
 > * **Impact:** Designed a dual-layer precision rectifier using an LM358D op-amp topology in EAGLE to bypass standard diode forward voltage drops. Handled schematic capture, ground plane routing, and Gerber/Drill file generation.
 
 ---
+
+### 🏆 Leadership & Achievements
+
+* [cite_start]**Club Lead, ConnexIon (IoT Club):** Mentoring a student team to build an autonomous agricultural rover and organizing technical events[cite: 354].
+* [cite_start]**FPGA Hackathon 2026:** Selected for a poster presentation at BITS Pilani, Hyderabad for the custom edge AI hardware accelerator[cite: 355].
+* [cite_start]**GATE 2026 (ECE) Qualified:** Successfully qualified in the pre-final year[cite: 356].
+* [cite_start]**JEE Mains:** Achieved 94.5 percentile[cite: 357].
+
+### 📜 Certifications
+
+* **Udemy:** SystemVerilog | [cite_start]Verilog HDL [cite: 351]
+* [cite_start]**FPGA Design** [cite: 353]
+
+---
 <div align="center">
   <i>"Hardware is just software crystallized."</i>
 </div>
