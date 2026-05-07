@@ -2,7 +2,7 @@
   
 # Hi there, I'm Mari Venkatesh M 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+ASIC+Design+%26+Verification+Engineer;RTL-to-GDSII+%7C+FPGA+%26+Edge+AI+Developer;ECE+Undergrad+%40+IIIT+Sri+City)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+ASIC+Design+%26+Verification+Engineer;RTL-to-GDSII+%7C+FPGA+%26+Edge+AI+Developer;ECE+Undergrad+%40+IIIT+Sri+City)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/mari-venkatesh-m">
