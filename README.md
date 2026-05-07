@@ -91,15 +91,15 @@ I enjoy bridging the gap between theoretical algorithms and physical silicon, op
 
 ### 🏆 Leadership & Achievements
 
-* [cite_start]**Club Lead, ConnexIon (IoT Club):** Mentoring a student team to build an autonomous agricultural rover and organizing technical events[cite: 354].
-* [cite_start]**FPGA Hackathon 2026:** Selected for a poster presentation at BITS Pilani, Hyderabad for the custom edge AI hardware accelerator[cite: 355].
-* [cite_start]**GATE 2026 (ECE) Qualified:** Successfully qualified in the pre-final year[cite: 356].
-* [cite_start]**JEE Mains:** Achieved 94.5 percentile[cite: 357].
+* **Club Lead, ConnexIon (IoT Club):** Mentoring a student team to build an autonomous agricultural rover and organizing technical events.
+* **FPGA Hackathon 2026:** Selected for a poster presentation at BITS Pilani, Hyderabad for the custom edge AI hardware accelerator.
+* **GATE 2026 (ECE) Qualified:** Successfully qualified in the pre-final year.
+* **JEE Mains:** Achieved 94.5 percentile.
 
 ### 📜 Certifications
 
-* **Udemy:** SystemVerilog | [cite_start]Verilog HDL [cite: 351]
-* [cite_start]**FPGA Design** [cite: 353]
+* **Udemy:** SystemVerilog | Verilog HDL
+* **FPGA Design**
 
 ---
 <div align="center">
